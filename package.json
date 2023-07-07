@@ -1,0 +1,19 @@
+{
+  "name": "npmcours-oss-iim-td4",
+  "version": "1.0.0",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisPerre/npmcours-oss-iim-td4.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LouisPerre/npmcours-oss-iim-td4/issues"
+  },
+  "homepage": "https://github.com/LouisPerre/npmcours-oss-iim-td4#readme"
+}
